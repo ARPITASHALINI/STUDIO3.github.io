@@ -1,3 +1,4 @@
+<!docty
 <html>
     <head>
         <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
@@ -34,6 +35,7 @@ p {
   bottom: 0;
   width: 40%;
   border-style: inset;
+  height: 600px;
 }
 body {
   background-color: #f0d9dd;
