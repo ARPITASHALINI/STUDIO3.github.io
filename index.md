@@ -30,7 +30,7 @@ p {
 * on the page */
 #map {
   position: absolute;
-  top: 300px;
+  top: 325px;
   bottom: 0;
   width: 75%;
   border-style: inset;
@@ -51,6 +51,7 @@ ul {
   zoom:1;
   display: inline;
   vertical-align: middle;
+  bottom: 20px;
 }
 
 /**
