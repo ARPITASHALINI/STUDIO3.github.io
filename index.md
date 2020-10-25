@@ -45,7 +45,7 @@ ul {
   padding: 40px;
   width: 20%;
   position: absolute;
-  text-align: center;
+  text-align: left;
   display: inline-block;
   margin: 20px;
   zoom:1;
