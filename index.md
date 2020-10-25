@@ -34,8 +34,8 @@ p {
   bottom: 0;
   width: 40%;
   border-style: inset;
-  height: 600px;
-  margin: 40px
+  height: 100px;
+  margin: 10px
 }
 body {
   background-color: #f0d9dd;
@@ -105,7 +105,6 @@ ul li{
         <li><a class="active" href="mapbox-interaction.html" target="_self" style="color: #09166c"> &raquo; Output 2</a></li>
         <li><a href="mapbox-turfjs.html" target="_self" style="color: #09166c"> &raquo; Output 3</a></li>
       </ul>
-</div>
         <div id='map'></div>
         <div class='map-overlay' id='features'><h2>US population density</h2><div id='pd'><p>Hover over a state!</p></div></div>
         <div class='map-overlay' id='legend'></div>
