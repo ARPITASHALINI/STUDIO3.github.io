@@ -87,7 +87,7 @@ ul li{
   line-height: 18px;
   height: 150px;
   margin-bottom: 40px;
-  width: 150px;
+  width: 80px;
 }
 
 .legend-key {
