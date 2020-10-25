@@ -83,9 +83,9 @@ ul {
   line-height: 18px;
   height: 200px;
   margin-bottom: 40px;
-  width: 95px;
+  width: 105px;
   margin-top: 100px;
-  margin: 40px;
+  margin: 140px;
   top: 650px;
 }
 
