@@ -75,11 +75,11 @@ ul li{
 }
 
 #features {
-  top: 300px;
+  top: 275px;
   height: 200px;
   margin-top: 0px;
   width: 195px;
-  margin: 55px;
+  margin: 60px;
   position: absolute;
 }
 
