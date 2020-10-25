@@ -29,10 +29,10 @@ p {
 * Create a position for the map
 * on the page */
 #map {
-  position: relative;
+  position: absolute;
   top: 200px;
   bottom: 0;
-  width: 40%;
+  width: 100%;
   border-style: inset;
   height: 1000px;
   margin: 10px
