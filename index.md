@@ -78,7 +78,7 @@ ul li{
   top: 300px;
   height: 200px;
   margin-top: 20px;
-  width: 250px;
+  width: 200px;
 }
 
  #legend {
