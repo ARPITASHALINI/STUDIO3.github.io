@@ -90,7 +90,7 @@ ul li{
   margin-bottom: 0;
   width: 100px;
   position: absolute;
-  margin: 100px;
+  margin-top: 100px;
   margin-right: 10px;
 }
 
