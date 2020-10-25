@@ -83,13 +83,12 @@ ul li{
 }
 
  #legend {
-  padding: 15px;
+  padding: 10px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   line-height: 18px;
   height: 200px;
   margin-bottom: 20px;
   width: 100px;
-  position: absolute;
   margin-top: 450px;
 }
 
@@ -99,7 +98,6 @@ ul li{
   width: 10px;
   height: 10px;
   margin-right: 5px;
-  position: absolute;
 }
         </style>
     </head>
