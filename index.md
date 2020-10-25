@@ -52,11 +52,6 @@ ul {
   display: inline;
   vertical-align: middle;
 }
-ul li{
-  display: inline;
-  text-align: center;
-  vertical-align: middle;
-}
 
 /**
 * Set rules for how the map overlays
@@ -99,6 +94,7 @@ ul li{
   width: 10px;
   height: 10px;
   margin-right: 5px;
+  margin-top: 100px;
 }
         </style>
     </head>
