@@ -51,6 +51,7 @@ ul {
   zoom:1;
   display: inline;
   vertical-align: middle;
+  margin-left: 20px;
 }
 
 /**
