@@ -75,10 +75,10 @@ ul li{
 }
 
 #features {
-  top: 250px;
-  height: 100px;
+  top: 300px;
+  height: 250px;
   margin-top: 20px;
-  width: 250px;
+  width: 350px;
 }
 
  #legend {
