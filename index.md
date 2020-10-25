@@ -34,7 +34,7 @@ p {
   bottom: 0;
   width: 40%;
   border-style: inset;
-  height: 100px;
+  height: 1000px;
   margin: 10px
 }
 body {
