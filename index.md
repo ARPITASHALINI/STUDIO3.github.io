@@ -29,12 +29,13 @@ p {
 * Create a position for the map
 * on the page */
 #map {
-  position: absolute;
+  position: relative;
   top: 200px;
   bottom: 0;
   width: 40%;
   border-style: inset;
   height: 600px;
+  margin: 40px
 }
 body {
   background-color: #f0d9dd;
