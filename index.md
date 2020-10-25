@@ -88,7 +88,7 @@ ul li{
   line-height: 18px;
   height: 200px;
   margin-bottom: 120px;
-  width: 100px;
+  width: 125px;
   margin-top: 0px;
   margin-right: 40px;
 }
