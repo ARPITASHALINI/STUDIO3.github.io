@@ -103,7 +103,6 @@ ul li{
   height: 10px;
   margin-right: 5px;
   position: absolute;
-  text-align: center;
 }
         </style>
     </head>
