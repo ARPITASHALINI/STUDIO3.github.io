@@ -80,15 +80,16 @@ ul li{
   margin-top: 0px;
   width: 195px;
   margin: 0px;
+  position: absolute;
 }
 
  #legend {
   padding: 10px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   line-height: 18px;
-  height: 150px;
-  margin-bottom: 40px;
-  width: 80px;
+  height: 250px;
+  margin-bottom: 10px;
+  width: 100px;
   position: absolute;
 }
 
