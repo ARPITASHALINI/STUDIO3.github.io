@@ -89,7 +89,7 @@ ul li{
   height: 200px;
   margin-bottom: 40px;
   width: 125px;
-  margin-top: 0px;
+  margin-top: 100px;
   margin: 40px;
 }
 
