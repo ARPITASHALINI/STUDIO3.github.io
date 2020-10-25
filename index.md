@@ -34,8 +34,8 @@ p {
   bottom: 0;
   width: 100%;
   border-style: inset;
-  height: 1000px;
-  margin: 10px
+  height: 800px;
+  margin: 20px
 }
 body {
   background-color: #f0d9dd;
