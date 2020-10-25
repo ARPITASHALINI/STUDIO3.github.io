@@ -78,7 +78,7 @@ ul li{
   top: 300px;
   height: 200px;
   margin-top: 0px;
-  width: 200px;
+  width: 185px;
   margin: 50px;
 }
 
