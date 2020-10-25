@@ -86,7 +86,7 @@ ul {
   width: 125px;
   margin-top: 100px;
   margin: 40px;
-  top: 500px;
+  top: 850px;
 }
 
 .legend-key {
