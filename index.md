@@ -22,7 +22,7 @@ h3 {
 p {
   font-size: 0.85em;
   margin: 10px;
-  text-align: left;
+  text-align: center;
 }
 
 /**
@@ -102,6 +102,7 @@ ul li{
   height: 10px;
   margin-right: 5px;
   position: absolute;
+  text-align: center;
 }
         </style>
     </head>
