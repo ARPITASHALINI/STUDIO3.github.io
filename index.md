@@ -30,7 +30,7 @@ p {
 * on the page */
 #map {
   position: absolute;
-  top: 250px;
+  top: 300px;
   bottom: 0;
   width: 75%;
   border-style: inset;
