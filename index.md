@@ -90,6 +90,7 @@ ul li{
   margin-bottom: 20px;
   width: 100px;
   margin-top: 450px;
+  margin: 40px;
 }
 
 .legend-key {
