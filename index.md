@@ -5,15 +5,15 @@
         <script> mapboxgl.accessToken = 'pk.eyJ1IjoiYXJwaXRhMjUwOSIsImEiOiJja2dibnVxenQwMHUxMnptZjJjZ2dqNnRpIn0.k-hGdFzGPxjJ1CbQP10D3w'; </script>
         <style>
             body {
-  margin: 0;
-  padding: 0;
-}
+              margin: 0;
+              padding: 0;
+            }
 
-h2,
-h3 {
-  margin: 10px;
-  font-size: 1.2em;
-}
+   h2,
+   h3 {
+   margin: 10px;
+   font-size: 1.2em;
+ }
 
 h3 {
   font-size: 1em;
@@ -30,7 +30,7 @@ p {
 * on the page */
 #map {
   position: absolute;
-  top: 200px;
+  top: 250px;
   bottom: 0;
   width: 100%;
   border-style: inset;
