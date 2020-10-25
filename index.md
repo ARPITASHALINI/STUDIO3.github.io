@@ -35,7 +35,7 @@ p {
   width: 100%;
   border-style: inset;
   height: 800px;
-  margin: 20px
+  margin: 50px
 }
 body {
   background-color: #f0d9dd;
