@@ -77,7 +77,7 @@ ul li{
 #features {
   top: 300px;
   height: 200px;
-  margin-top: 20px;
+  margin-top: 10px;
   width: 200px;
   margin: 50px;
 }
