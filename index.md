@@ -71,6 +71,7 @@ ul li{
   font-family: Arial, sans-serif;
   overflow: auto;
   border-radius: 3px;
+  height: 250px;
 }
 
 #features {
