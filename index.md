@@ -32,7 +32,7 @@ p {
   position: absolute;
   top: 250px;
   bottom: 0;
-  width: 85%;
+  width: 75%;
   border-style: inset;
   height: 800px;
   margin: 50px
