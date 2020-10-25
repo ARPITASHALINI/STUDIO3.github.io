@@ -69,7 +69,7 @@ ul {
 }
 
 #features {
-  top: 275px;
+  top: 325px;
   height: 200px;
   margin-top: 0px;
   width: 195px;
