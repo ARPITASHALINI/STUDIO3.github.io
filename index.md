@@ -83,7 +83,7 @@ ul {
   line-height: 18px;
   height: 200px;
   margin-bottom: 40px;
-  width: 125px;
+  width: 105px;
   margin-top: 100px;
   margin: 40px;
   top: 650px;
