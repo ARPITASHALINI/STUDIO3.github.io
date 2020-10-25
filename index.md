@@ -34,7 +34,7 @@ p {
   bottom: 0;
   width: 75%;
   border-style: inset;
-  height: 800px;
+  height: 650px;
   margin: 50px
 }
 body {
@@ -90,7 +90,7 @@ ul li{
   margin-bottom: 0;
   width: 100px;
   position: absolute;
-  margin-top: 100px;
+  margin-top: 250px;
   margin-right: 10px;
 }
 
