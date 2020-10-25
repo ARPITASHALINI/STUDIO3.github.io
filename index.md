@@ -91,7 +91,8 @@ ul li{
   margin-bottom: 10px;
   width: 150px;
   position: absolute;
-  margin: 450px;
+  margin: 100px;
+  margin-right: 15px;
 }
 
 .legend-key {
