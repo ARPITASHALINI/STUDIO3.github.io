@@ -79,6 +79,7 @@ ul li{
   height: 200px;
   margin-top: 20px;
   width: 200px;
+  margin: 50px;
 }
 
  #legend {
