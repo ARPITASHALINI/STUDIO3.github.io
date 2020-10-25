@@ -89,8 +89,8 @@ ul li{
   height: 200px;
   margin-bottom: 20px;
   width: 100px;
-  margin-top: 450px;
-  margin: 40px;
+  margin-top: 0px;
+  margin-right: 40px;
 }
 
 .legend-key {
