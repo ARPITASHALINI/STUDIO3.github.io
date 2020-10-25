@@ -83,7 +83,7 @@ ul li{
 }
 
  #legend {
-  padding: 10px;
+  padding: 15px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   line-height: 18px;
   height: 200px;
