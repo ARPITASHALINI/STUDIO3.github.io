@@ -88,6 +88,7 @@ ul li{
   height: 150px;
   margin-bottom: 40px;
   width: 80px;
+  position: absolute;
 }
 
 .legend-key {
@@ -96,6 +97,7 @@ ul li{
   width: 10px;
   height: 10px;
   margin-right: 5px;
+  position: absolute;
 }
         </style>
     </head>
