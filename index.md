@@ -44,7 +44,7 @@ ul {
   background: #FCF3CF;
   padding: 40px;
   width: 20%;
-  position: fixed;
+  position: absolute;
   text-align: center;
   display: inline-block;
   margin: 20px;
@@ -87,9 +87,9 @@ ul li{
   padding: 10px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   line-height: 18px;
-  height: 250px;
+  height: 450px;
   margin-bottom: 10px;
-  width: 100px;
+  width: 150px;
   position: absolute;
 }
 
