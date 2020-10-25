@@ -87,12 +87,13 @@ ul li{
   padding: 10px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   line-height: 18px;
-  height: 205px;
-  margin-bottom: 0px;
-  width: 200px;
+  height: 200px;
+  margin-bottom: 0;
+  width: 100px;
   position: absolute;
   margin: 100px;
-  margin-right: 20px;
+  margin-right: 0;
+  text-align: center;
 }
 
 .legend-key {
