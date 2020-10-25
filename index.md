@@ -87,10 +87,10 @@ ul li{
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   line-height: 18px;
   height: 200px;
-  margin-bottom: 120px;
+  margin-bottom: 40px;
   width: 125px;
   margin-top: 0px;
-  margin-right: 40px;
+  margin: 40px;
 }
 
 .legend-key {
