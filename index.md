@@ -69,9 +69,8 @@ ul li{
   background: rgba(255, 255, 255, 0.8);
   margin-right: 20px;
   font-family: Arial, sans-serif;
-  overflow: auto;
+  overlay: auto;
   border-radius: 3px;
-  height: 250px;
 }
 
 #features {
